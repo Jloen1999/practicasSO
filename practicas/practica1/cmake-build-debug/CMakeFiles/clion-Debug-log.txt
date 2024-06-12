@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/jloen/Escritorio/asignaturas/so/practicas/practica1 Select CMakeLists.txt
