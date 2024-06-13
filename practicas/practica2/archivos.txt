@@ -1,6 +1,0 @@
-/home/jloen/Escritorio/asignaturas/so/practicas/practica2/archivos.txt
-/home/jloen/Escritorio/asignaturas/so/practicas/practica2/CMakeLists.txt
-/home/jloen/Escritorio/asignaturas/so/practicas/practica2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt
-/home/jloen/Escritorio/asignaturas/so/practicas/practica2/cmake-build-debug/CMakeFiles/clion-environment.txt
-/home/jloen/Escritorio/asignaturas/so/practicas/practica2/cmake-build-debug/CMakeFiles/TargetDirectories.txt
-/home/jloen/Escritorio/asignaturas/so/practicas/practica2/cmake-build-debug/CMakeCache.txt
